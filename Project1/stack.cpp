@@ -127,7 +127,8 @@ void clear(PSTACK pS)
 void test()
 {
 	printf("Hello world!");
-
+	printf("Hello world!");
+	printf("Hello world!");
 }
 
 
