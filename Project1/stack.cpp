@@ -128,7 +128,7 @@ void test()
 {
 	printf("Hello world!");
 	printf("Hello git!");
-
+	printf("Hello git!");
 }
 
 
