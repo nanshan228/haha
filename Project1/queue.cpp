@@ -31,15 +31,7 @@ int main(void)
 	traverse_queue(&Q);
 
 	if (out_queue(&Q, &val)) {
-		printf("出对成功，出队元素：%d\n", val);
-	}
-	else
-		printf("出队失败\n");
-
-	//en_queue(&Q, 1);
-
-	if (out_queue(&Q, &val)) {
-		printf("出对成功，出队元素：%d\n", val);
+		printf("出队成功，出队元素：%d\n", val);
 	}
 	else
 		printf("出队失败\n");
