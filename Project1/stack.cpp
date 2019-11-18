@@ -18,7 +18,7 @@ void traverse(PSTACK pS);
 bool pop(PSTACK, int*);
 void clear(PSTACK pS);
 
-int main2(void)
+int main1(void)
 {
 	STACK S;
 	int val;

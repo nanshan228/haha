@@ -15,7 +15,7 @@ void traverse_queue(QUEUE* pQ);
 bool empty_queue(QUEUE* pQ);
 bool out_queue(QUEUE* pQ, int* val);
 
-int main(void)
+int main2(void)
 {
 	QUEUE Q;
 	int val;
