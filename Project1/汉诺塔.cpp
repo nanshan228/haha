@@ -17,7 +17,7 @@ void hannoi(int n, char A, char B, char C)
 	}
 }
 
-int main(void)
+int main7(void)
 {
 	int n;
 	char A = 'A';

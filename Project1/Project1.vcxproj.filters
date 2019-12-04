@@ -24,5 +24,11 @@
     <ClCompile Include="汉诺塔.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Max2（递归+分治思想）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分查找最优方法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -123,8 +123,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Max2（递归+分治思想）.cpp" />
     <ClCompile Include="queue.cpp" />
     <ClCompile Include="stack.cpp" />
+    <ClCompile Include="二分查找最优方法.cpp" />
     <ClCompile Include="汉诺塔.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
